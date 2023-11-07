@@ -20,6 +20,4 @@ I'm always open to collaborating on interesting projects related to ASP.NET or a
 
 ## Get in Touch
 You can reach me via email at subediganesh306@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ganesh-subedi-13a62b269/). I'm looking forward to connecting with fellow developers!
-<p align="center">
-  <img src="https://your-image-url.com/path/to/your/image.svg" alt="Coding SVG" width="400" height="300">
-</p>
+
